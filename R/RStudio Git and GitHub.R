@@ -12,12 +12,12 @@ gitcreds::gitcreds_set()
 
 usethis::use_git()
 
-# Execute o comando usethis::use_github() para criar u repositorio na sua conta do GitHub
+# Execute o comando usethis::use_github() para criar um repositorio na sua conta do GitHub
 
 usethis::use_github()
 
 # Depois de exucutar esses comandos o RStudio irá adicionar uma aba chamada git.
-# Para testa a funcionalidade criaremos uma pasta no R/
+# Para testa a funcionalidade criaremos uma pasta no R/ e adicionar um arquivo 
 
 #Testando nova Linha de comando
 #Testando Novamente
