@@ -18,3 +18,5 @@ usethis::use_github()
 
 # Depois de exucutar esses comandos o RStudio irá adicionar uma aba chamada git.
 # Para testa a funcionalidade criaremos uma pasta no R/
+
+#Testando nova Linha de comando
